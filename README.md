@@ -5,9 +5,9 @@
 <img src="https://github.com/user-attachments/assets/15be3c4c-a05c-4761-a109-17fbe29a68d8" width="350">
 
 #### Screenshots of Final Product:
-<img src="https://github.com/user-attachments/assets/fafd2cbe-25fb-47be-9a83-f5d09732d182" width="275" align="left">
-<img src="https://github.com/user-attachments/assets/a77e6d24-c497-4372-97da-a2eba888edb4" width="275" align ="center">
-<img src="https://github.com/user-attachments/assets/c385385a-dc82-4da8-9595-2864d02af383" width="275" align = "right">
+<img src="https://github.com/user-attachments/assets/fafd2cbe-25fb-47be-9a83-f5d09732d182" width="250" align="left">
+<img src="https://github.com/user-attachments/assets/a77e6d24-c497-4372-97da-a2eba888edb4" width="250" align ="center">
+<img src="https://github.com/user-attachments/assets/c385385a-dc82-4da8-9595-2864d02af383" width="250" align = "right">
 
 ### How do I approach designing software?
 I approach designing software by reviewing and understanding the goal. Ideally, I have the goal easily available so I can tailor my approach to them. In this case, the reference picture.
